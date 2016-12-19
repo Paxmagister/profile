@@ -1,0 +1,83 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>test-p</find>
+      <find>\s:\s</find>
+      <find>putPol</find>
+      <find>integrations</find>
+      <find>handleSave</find>
+      <find>saveBypassSection</find>
+      <find>isDragging</find>
+      <find>disabledTitleNote</find>
+      <find>allowOnlyMode</find>
+      <find>sslDecryption</find>
+      <find>.saveToStore</find>
+      <find>name: '(\w+)'</find>
+      <find>id: '(.+?)'</find>
+      <find>contentSettings</find>
+      <find>name: '(.+?)'</find>
+      <find>SQLAlchemy</find>
+      <find>getAffectedPolicies</find>
+      <find>checkForConfirmModal</find>
+      <find>showConfirmModal</find>
+      <find>setConfirmModal</find>
+      <find>getSecuritySettings</find>
+      <find>validAdvancedSettings</find>
+      <find>parentState</find>
+      <find>_.find</find>
+      <find>id</find>
+      <find>.storeSettings</find>
+      <find>x-sudo</find>
+      <find>findIndex</find>
+      <find>findIn</find>
+      <find>setContentSetting</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>}</replace>
+      <replace>const</replace>
+      <replace>handleBodyClick</replace>
+      <replace>handleExternalDOMEvent</replace>
+      <replace>IntegrationsStep</replace>
+      <replace>securitySettingId</replace>
+      <replace>state.securitySettings</replace>
+      <replace>&quot;</replace>
+      <replace>[this.props.idJKey || 'id']</replace>
+      <replace>contentSettingOptions</replace>
+      <replace>$1:</replace>
+      <replace>chackbox</replace>
+      <replace>checkbox</replace>
+      <replace>InputText</replace>
+      <replace>Modal</replace>
+      <replace>customAppearanceOptionss</replace>
+      <replace>selectedData</replace>
+      <replace>customAppearanceOptions</replace>
+      <replace>users</replace>
+      <replace>{ $1, $2 }</replace>
+      <replace>'</replace>
+      <replace>registerPostPolicySave</replace>
+      <replace>:</replace>
+      <replace>whitelistOnly</replace>
+      <replace>intelligentProxyHttps</replace>
+      <replace>id: `\${this.inputPrefix}-$1`</replace>
+      <replace>name: `\${this.inputPrefix}-$1`</replace>
+      <replace>parentState</replace>
+      <replace>(item) =&gt; item.$1 === key.$2</replace>
+      <replace>(item) =&gt; item.$1 === '$2'</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/dev/website/dashboard2/public</dir>
+      <dir>$USER_HOME$/dev/dasbot/scripts</dir>
+      <dir>$USER_HOME$/dev/dasbot/node_modules</dir>
+      <dir>$USER_HOME$/dev/website/dashboard2/public/resources/js/jsx</dir>
+      <dir>$USER_HOME$/dev/website/dashboard2/public/resources/js/app/views</dir>
+      <dir>$USER_HOME$/dev/website/dashboard2/public/resources/js/modules</dir>
+      <dir>$USER_HOME$/dev/website/dashboard2/public/resources/js</dir>
+      <dir>$USER_HOME$/dev/policies-app</dir>
+      <dir>$USER_HOME$/dev/website/dashboard2/public/resources/scss</dir>
+      <dir>$USER_HOME$/dev/website/dashboard2</dir>
+      <dir>$USER_HOME$/dev/website</dir>
+      <dir>$USER_HOME$/dev/website/node_modules</dir>
+      <dir>$USER_HOME$/dev/policies-app/src/destinations</dir>
+    </dirStrings>
+  </component>
+</application>

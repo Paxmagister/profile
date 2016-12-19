@@ -1,0 +1,62 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1440.900" x="510" y="153" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="722" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="440" y="288" />
+    <location key="SettingsEditor.0.0.1920.1080" x="360" y="154" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="510" y="222" />
+    <location key="SettingsEditor.0.0.1440.900" x="203" y="103" />
+    <location key="MergeDialog.0.0.1920.1080" x="4" y="23" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1080" x="607" y="187" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080" x="755" y="194" />
+    <location key="RollbackChangesDialog.0.0.1920.1080" x="749" y="274" />
+    <location key="findTextDialog.0.0.1920.1080" x="401" y="353" />
+    <location key="FileDocumentManager.FileCacheConflict.0.0.1920.1080" x="430" y="23" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="669" y="357" />
+    <location key="#ESLint.0.0.1920.1080" x="572" y="353" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="497" y="248" />
+    <location key="replaceTextDialog.0.0.1920.1080" x="724" y="263" />
+    <location key="EditParametersPopupWindow.0.0.1920.1080" x="695" y="459" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="596" y="240" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080" x="537" y="484" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.1920.1080" x="918" y="483" />
+    <location key="jetbrains.nodejs.interpreters-dialog.0.0.1920.1080" x="757" y="358" />
+    <location key="findTextDialog.0.0.1920.1200" x="391" y="278" />
+    <location key="MergeDialog.0.0.1920.1200" x="184" y="42" />
+    <location key="MultipleFileMergeDialog.0.0.1920.1200" x="661" y="297" />
+    <location key="new project wizard.0.0.1920.1080" x="549" y="157" />
+    <location key="#Project_Structure.0.0.1920.1080" x="450" y="132" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1080" x="749" y="269" />
+    <location key="replaceTextDialog.0.0.1920.1200" x="835" y="263" />
+    <location key="VCS.ChangeListViewerDialog.0.0.1920.1200" x="831" y="269" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="961" y="230" />
+    <location key="FileChooserDialogImpl.0.0.1920.1200" x="859" y="312" />
+    <location key="com.intellij.lang.javascript.refactoring.extractMethod.JSExtractFunctionDialog.0.0.1920.1080" x="833" y="185" />
+    <location key="SettingsEditor.0.0.1920.1200" x="553" y="213" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1200" x="792" y="357" />
+    <size key="MergeDialog.0.0.1920.1080" width="1916" height="1057" />
+    <size key="javadoc.popup.0.0.1920.1080" width="600" height="419" />
+    <size key="findTextDialog.0.0.1920.1080" width="1454" height="547" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080" width="584" height="478" />
+    <size key="Vcs.CompareWithSelectedRevision.Popup.0.0.1920.1080" width="300" height="392" />
+    <size key="#ESLint.0.0.1920.1080" width="779" height="412" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1697" height="302" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1697" height="302" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1697" height="302" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1697" height="302" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1916" height="371" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1916" height="371" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1916" height="371" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1916" height="371" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1916" height="371" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1916" height="371" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1916" height="371" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1916" height="371" />
+    <size key="findTextDialog.0.0.1920.1200" width="1301" height="547" />
+    <size key="new project wizard.0.0.1920.1080" width="879" height="738" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200" width="1697" height="302" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200" width="1697" height="302" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200" width="1697" height="302" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200" width="1697" height="302" />
+  </component>
+</application>

@@ -1,0 +1,151 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/dev/kilroy" />
+        <option value="$USER_HOME$/dev/website" />
+        <option value="$USER_HOME$/dev/policies-app" />
+        <option value="$USER_HOME$/dev/dasbot" />
+        <option value="$USER_HOME$/dev/Jenkins Local Time" />
+        <option value="$USER_HOME$" />
+        <option value="$USER_HOME$/dev/react-quill" />
+        <option value="$USER_HOME$/dev" />
+        <option value="$USER_HOME$/dev/zmachine-api" />
+        <option value="$USER_HOME$/VPNThings" />
+        <option value="$USER_HOME$/dev/cisco-umbrella" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev/policies-app" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/dev/kilroy" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1479161631592" />
+              <option name="buildTimestamp" value="1470121200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/VPNThings">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465320054970" />
+              <option name="buildTimestamp" value="1463209200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1469120953041" />
+              <option name="buildTimestamp" value="1463209200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/Jenkins Local Time">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480553565035" />
+              <option name="buildTimestamp" value="1470121200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/cisco-umbrella">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.971" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1463767275517" />
+              <option name="buildTimestamp" value="1461913200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/dasbot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1480623061406" />
+              <option name="buildTimestamp" value="1470121200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/kilroy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481833675105" />
+              <option name="buildTimestamp" value="1470121200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/policies-app">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481144959570" />
+              <option name="buildTimestamp" value="1470121200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/react-quill">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1478723291007" />
+              <option name="buildTimestamp" value="1470121200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/website">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1481152869244" />
+              <option name="buildTimestamp" value="1470121200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/dev/zmachine-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.972" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1465939256852" />
+              <option name="buildTimestamp" value="1463209200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/dev" />
+  </component>
+</application>

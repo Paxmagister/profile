@@ -1,0 +1,171 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="dasbot" values="CoffeeScript,PLAIN_TEXT,Bash,SQLite Database,JSON" collectionTime="1480962424756" />
+      <project id="cisco-umbrella" values="Images,XML,JSON,SourceMap,UNKNOWN,SQLite Database,HTML,JavaScript,SCSS,PLAIN_TEXT,CSS" collectionTime="1463778941931" />
+      <project id="VPNThings" values="PLAIN_TEXT,Images" collectionTime="1465337877564" />
+      <project id="kilroy" values="JavaScript,Bash,HTML,SourceMap,Python,UNKNOWN,CSS,XML,Images,PLAIN_TEXT" collectionTime="1481840044201" />
+      <project id="policies-app" values="PLAIN_TEXT,SourceMap,Images,JavaScript,HTML,JSON,SCSS,Bash,Groovy,JSX Harmony" collectionTime="1481840043710" />
+      <project id="zmachine-api" values="JavaScript,PLAIN_TEXT,UNKNOWN,Bash,JSON" collectionTime="1465939276875" />
+      <project id="website" values="IDEA_MODULE,JSON,Native,JavaScript,TypeScript,IDL,ARCHIVE,PLAIN_TEXT,Less,CoffeeScript,SmartyConfig,Smarty,Python,HTML,SWF,UNKNOWN,Bash,PATCH,Images,PHP,Properties,Sass,XML,SourceMap,DTD,Perl,YAML,PHAR,JSX Harmony,JSHint,C++,SQL,Stylus,JSCS,SCSS,Eclipse,CSS" collectionTime="1481840044066" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="policies-app" values="node_modules" collectionTime="1481840043778" />
+      <project id="website" values="node_modules" collectionTime="1481840044067" />
+      <project id="cisco-umbrella" values="node_modules" collectionTime="1463778942040" />
+      <project id="dasbot" values="node_modules" collectionTime="1480962424768" />
+    </group>
+    <group name="vcs">
+      <project id="dasbot" values="Git" collectionTime="1480962424703" />
+      <project id="cisco-umbrella" values="Git" collectionTime="1463778941908" />
+      <project id="VPNThings" values="Git" collectionTime="1465337877550" />
+      <project id="kilroy" values="Git" collectionTime="1481840044183" />
+      <project id="policies-app" values="Git" collectionTime="1481840043595" />
+      <project id="zmachine-api" values="Git" collectionTime="1465939276836" />
+      <project id="website" values="Git" collectionTime="1481840043816" />
+    </group>
+    <group name="module type">
+      <project id="dasbot" values="JAVA_MODULE" collectionTime="1480962424703" />
+      <project id="cisco-umbrella" values="JAVA_MODULE" collectionTime="1463778941909" />
+      <project id="VPNThings" values="JAVA_MODULE" collectionTime="1465337877550" />
+      <project id="kilroy" values="JAVA_MODULE" collectionTime="1481840044183" />
+      <project id="policies-app" values="JAVA_MODULE" collectionTime="1481840043597" />
+      <project id="zmachine-api" values="JAVA_MODULE" collectionTime="1465939276837" />
+      <project id="website" values="JAVA_MODULE" collectionTime="1481840043816" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="policies-app" values="NodeJSConfigurationType" collectionTime="1481840043606" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="dasbot" values="not installed" collectionTime="1480962424769" />
+      <project id="cisco-umbrella" values="not installed" collectionTime="1463778942044" />
+      <project id="VPNThings" values="not installed" collectionTime="1465337877672" />
+      <project id="kilroy" values="not installed" collectionTime="1481840044232" />
+      <project id="Jenkins Local Time" values="not installed" collectionTime="1480553577265" />
+      <project id="zmachine-api" values="not installed" collectionTime="1465939276939" />
+      <project id="website" values="not installed" collectionTime="1481840044068" />
+      <project id="policies-app" values="not installed" collectionTime="1481840043786" />
+    </group>
+    <group name="libraries">
+      <project id="policies-app" values="javaScript" collectionTime="1481840043730" />
+      <project id="website" values="javaScript" collectionTime="1481840044067" />
+      <project id="cisco-umbrella" values="javaScript" collectionTime="1463778941942" />
+      <project id="dasbot" values="javaScript" collectionTime="1480962424758" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="dasbot" values="0" collectionTime="1480962424769" />
+      <project id="cisco-umbrella" values="0" collectionTime="1463778942049" />
+      <project id="VPNThings" values="0" collectionTime="1465337877675" />
+      <project id="kilroy" values="0" collectionTime="1481840044233" />
+      <project id="Jenkins Local Time" values="0" collectionTime="1480553577265" />
+      <project id="zmachine-api" values="0" collectionTime="1465939276942" />
+      <project id="website" values="0" collectionTime="1481840044068" />
+      <project id="policies-app" values="0" collectionTime="1481840043793" />
+    </group>
+    <group name="php-include-path">
+      <project id="dasbot" values="0" collectionTime="1480962424769" />
+      <project id="cisco-umbrella" values="0" collectionTime="1463778942041" />
+      <project id="VPNThings" values="0" collectionTime="1465337877672" />
+      <project id="kilroy" values="0" collectionTime="1481840044232" />
+      <project id="Jenkins Local Time" values="0" collectionTime="1480553577264" />
+      <project id="zmachine-api" values="0" collectionTime="1465939276937" />
+      <project id="website" values="0" collectionTime="1481840044068" />
+      <project id="policies-app" values="0" collectionTime="1481840043779" />
+    </group>
+    <group name="language-level">
+      <project id="dasbot" values="JDK_1_3" collectionTime="1480962424760" />
+      <project id="cisco-umbrella" values="JDK_1_3" collectionTime="1463778941947" />
+      <project id="VPNThings" values="JDK_1_3" collectionTime="1465337877570" />
+      <project id="kilroy" values="JDK_1_3" collectionTime="1481840044209" />
+      <project id="Jenkins Local Time" values="JDK_1_3" collectionTime="1480553577253" />
+      <project id="zmachine-api" values="JDK_1_3" collectionTime="1465939276879" />
+      <project id="website" values="JDK_1_3" collectionTime="1481840044067" />
+      <project id="policies-app" values="JDK_1_3" collectionTime="1481840043738" />
+    </group>
+    <group name="php-interpreters">
+      <project id="dasbot" values="0" collectionTime="1480962424769" />
+      <project id="cisco-umbrella" values="0" collectionTime="1463778942048" />
+      <project id="VPNThings" values="0" collectionTime="1465337877674" />
+      <project id="kilroy" values="0" collectionTime="1481840044233" />
+      <project id="Jenkins Local Time" values="0" collectionTime="1480553577265" />
+      <project id="zmachine-api" values="0" collectionTime="1465939276941" />
+      <project id="website" values="0" collectionTime="1481840044068" />
+      <project id="policies-app" values="0" collectionTime="1481840043792" />
+    </group>
+    <group name="Git">
+      <project id="dasbot" values="config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,data.local.branches.count.2+,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.8+,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1480962424761" />
+      <project id="cisco-umbrella" values="config.save.policy.STASH,data.local.branches.count.8+,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.15+,config.ssh.enabled" collectionTime="1463778941952" />
+      <project id="VPNThings" values="data.local.branches.count.1,config.push.autoupdate.disabled,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.ssh.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH" collectionTime="1465337877572" />
+      <project id="kilroy" values="data.remote.branches.count.1,config.ssh.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.save.policy.STASH,data.local.branches.count.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled" collectionTime="1481840044209" />
+      <project id="Jenkins Local Time" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1480553577253" />
+      <project id="zmachine-api" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.local.branches.count.2+,config.ssh.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1465939276881" />
+      <project id="website" values="config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,data.remote.branches.count.100+,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.ssh.enabled,config.warn.about.detached.enabled,data.local.branches.count.30+,config.push.update.all.roots.enabled" collectionTime="1481840044067" />
+      <project id="policies-app" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,data.local.branches.count.30+,config.save.policy.STASH,config.push.autoupdate.disabled,data.remote.branches.count.30+,config.repo.sync.NOT_DECIDED" collectionTime="1481840043765" />
+    </group>
+    <group name="py-packages">
+      <project id="website" values="PyMySQL,MySQL-python,selenium" collectionTime="1481840044182" />
+      <project id="kilroy" values="psycopg2,click,SQLAlchemy,Jinja2,Flask,itsdangerous,requests,Werkzeug,MarkupSafe" collectionTime="1481840044311" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="dasbot" values="Project,Project,Directory" collectionTime="1480962424768" />
+      <project id="cisco-umbrella" values="Project,Directory,Project,Project" collectionTime="1463778942041" />
+      <project id="VPNThings" values="Project,Project" collectionTime="1465337877671" />
+      <project id="kilroy" values="Project,Project" collectionTime="1481840044232" />
+      <project id="Jenkins Local Time" values="Project,Project,Project" collectionTime="1480553577264" />
+      <project id="zmachine-api" values="Project,Project" collectionTime="1465939276937" />
+      <project id="website" values="Directory,Project,Project,Project" collectionTime="1481840044068" />
+      <project id="policies-app" values="Project,Directory,Project,Project" collectionTime="1481840043778" />
+    </group>
+    <group name="py-interpreter">
+      <project id="website" values="Python 2.7.10 [virtualenv]" collectionTime="1481840044105" />
+      <project id="kilroy" values="Python 2.7.10 [virtualenv]" collectionTime="1481840044234" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="dasbot" values="ECMAScript 5.1" collectionTime="1480962424768" />
+      <project id="cisco-umbrella" values="JSX Harmony" collectionTime="1463778942041" />
+      <project id="VPNThings" values="ECMAScript 5.1" collectionTime="1465337877671" />
+      <project id="kilroy" values="ECMAScript 5.1" collectionTime="1481840044232" />
+      <project id="Jenkins Local Time" values="ECMAScript 6" collectionTime="1480553577264" />
+      <project id="zmachine-api" values="ECMAScript 5.1" collectionTime="1465939276937" />
+      <project id="website" values="JSX Harmony" collectionTime="1481840044068" />
+      <project id="policies-app" values="JSX Harmony" collectionTime="1481840043779" />
+    </group>
+    <group name="php-servers">
+      <project id="dasbot" values="0" collectionTime="1480962424769" />
+      <project id="cisco-umbrella" values="0" collectionTime="1463778942044" />
+      <project id="VPNThings" values="0" collectionTime="1465337877672" />
+      <project id="kilroy" values="0" collectionTime="1481840044232" />
+      <project id="Jenkins Local Time" values="0" collectionTime="1480553577265" />
+      <project id="zmachine-api" values="0" collectionTime="1465939276939" />
+      <project id="website" values="0" collectionTime="1481840044068" />
+      <project id="policies-app" values="0" collectionTime="1481840043786" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="zmachine-api" values="NodeJSConfigurationType" collectionTime="1465939276837" />
+      <project id="website" values="PythonConfigurationType,NodeJSConfigurationType,tests.Nosetests" collectionTime="1481840043816" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="123" />
+      <entry feature="execute.NodeJSConfigurationType.Debug" count="1" />
+      <entry feature="execute.NodeJSConfigurationType.Run" count="9" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="14" />
+      <entry feature="execute.PythonConfigurationType.Run" count="25" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Code_Style" count="4" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="5" />
+      <entry feature="ide.settings.ESLint" count="9" />
+      <entry feature="ide.settings.Editor_Tabs" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.JavaScript" count="3" />
+      <entry feature="ide.settings.Project_Structure" count="1" />
+      <entry feature="ide.settings.Python" count="1" />
+      <entry feature="ide.settings.SCSS" count="1" />
+      <entry feature="ideaapp.started" count="31" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

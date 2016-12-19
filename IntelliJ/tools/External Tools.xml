@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="pysauce-devdb" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="php " />
+      <option name="PARAMETERS" value="selenium/PythonTests/config/genDevDbConfig.php" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/website" />
+    </exec>
+  </tool>
+  <tool name="Selenium Standalone" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.nvm/versions/node/v4.4.1/bin/selenium-standalone" />
+      <option name="PARAMETERS" value="start" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/dev/website" />
+    </exec>
+  </tool>
+</toolSet>
